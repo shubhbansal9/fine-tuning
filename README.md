@@ -1,6 +1,5 @@
-# My Project
-
-This is a README file for my project. Below are some visualizations generated from the project.
+# Samsung PRISM 	
+Soft Prompts vs LoRa: Text Generative Models Analysis
 
 ## Visualization 1: BERT Lora Plot
 
